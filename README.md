@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Rocks are really old.
+- ✔ Languages I know: Java, javaScript.
+- 📈 Languages I understand: Python, C#, C++.
 
 <!---
 Glitch-Clock/Glitch-Clock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
