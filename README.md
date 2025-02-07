@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Rocks are really old.
-- ✔ Languages I know: Java, javaScript.
+- ✔ Languages I know: Java, javaScript. I also know HTML and CSS (Not programming languages but OK).
+- 🌱 Languages I want to learn: PHP, mySQL.
 - 📈 Languages I understand: Python, C#, C++.
 
 <!---
